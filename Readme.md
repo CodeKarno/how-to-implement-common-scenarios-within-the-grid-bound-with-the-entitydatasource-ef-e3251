@@ -1,3 +1,16 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [NorthwindModel.Designer.cs](./CS/WebSite/App_Code/NorthwindModel.Designer.cs) (VB: [NorthwindModel.Designer.vb](./VB/WebSite/App_Code/NorthwindModel.Designer.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [EditingCapabilities.aspx](./CS/WebSite/EditingCapabilities.aspx) (VB: [EditingCapabilities.aspx](./VB/WebSite/EditingCapabilities.aspx))
+* [EditingCapabilities.aspx.cs](./CS/WebSite/EditingCapabilities.aspx.cs) (VB: [EditingCapabilities.aspx](./VB/WebSite/EditingCapabilities.aspx))
+* [LookUpColumn.aspx](./CS/WebSite/LookUpColumn.aspx) (VB: [LookUpColumn.aspx](./VB/WebSite/LookUpColumn.aspx))
+* [MasterDetail.aspx](./CS/WebSite/MasterDetail.aspx) (VB: [MasterDetail.aspx](./VB/WebSite/MasterDetail.aspx))
+* [MasterDetail.aspx.cs](./CS/WebSite/MasterDetail.aspx.cs) (VB: [MasterDetail.aspx](./VB/WebSite/MasterDetail.aspx))
+* [ServerMode.aspx](./CS/WebSite/ServerMode.aspx) (VB: [ServerMode.aspx.vb](./VB/WebSite/ServerMode.aspx.vb))
+* [ServerMode.aspx.cs](./CS/WebSite/ServerMode.aspx.cs) (VB: [ServerMode.aspx.vb](./VB/WebSite/ServerMode.aspx.vb))
+<!-- default file list end -->
 # How to implement common scenarios within the grid bound with the EntityDataSource / EF
 
 
